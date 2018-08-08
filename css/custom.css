@@ -10,16 +10,16 @@
 
 /* Contact form */
 .form-inline label {
-	width: 100%;
-	justify-content: flex-start;
-	color: white;
 	font-size: 20px;
 	font-weight: bold;
+	color: white;
+	width: 100%;
+	justify-content: flex-start;
 }
 
 .form-inline input {
-	margin-right: 10px;
 	min-width: 300px;
+	margin-right: 10px;
 }
 
 /* Mission */
