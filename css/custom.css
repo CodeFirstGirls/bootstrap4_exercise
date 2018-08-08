@@ -1,4 +1,10 @@
 
+/* Navbar */
+
+.navbar {
+	background-color: rgba(32, 35, 41, 0.8);
+}
+
 /* Jumbotron */
 .jumbotron {
 	background-image: url('../images/fruit-and-veg.jpg');
@@ -6,6 +12,8 @@
 	background-size: cover;
 	border-radius: 0;
 	min-height: 600px;
+	
+	padding-top: 100px;
 }
 
 /* Contact form */
