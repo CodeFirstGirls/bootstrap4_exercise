@@ -12,8 +12,12 @@
 	background-size: cover;
 	border-radius: 0;
 	min-height: 600px;
-	
 	padding-top: 100px;
+}
+
+.jumbotron h1 {
+	font-family: 'Vast Shadow', cursive;
+	color: white;
 }
 
 /* Contact form */
