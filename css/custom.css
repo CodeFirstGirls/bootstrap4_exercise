@@ -1,4 +1,21 @@
 
+/* Jumbotron */
+.jumbotron {
+	background-image: url('../images/fruit-and-veg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 0;
+	min-height: 600px;
+}
+
+
+/* Mission */
+#mission {
+	background-color: rgba(32, 35, 41, 0.9);
+	color: #ddd;
+	padding: 20px 0 50px 0;
+}
+
 /* Social media buttons */
 #social-buttons .btn-primary {
 	border: none;
@@ -15,4 +32,3 @@
 .btn-pinterest {
 	background-color: #bd081c;
 }
-
