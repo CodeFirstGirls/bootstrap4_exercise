@@ -1,0 +1,18 @@
+
+/* Social media buttons */
+#social-buttons .btn-primary {
+	border: none;
+}
+
+.btn-twitter {
+	background-color: #1da1f2;
+}
+
+.btn-facebook {
+	background-color: #3b5998;
+}
+
+.btn-pinterest {
+	background-color: #bd081c;
+}
+
