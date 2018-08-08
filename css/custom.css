@@ -8,6 +8,19 @@
 	min-height: 600px;
 }
 
+/* Contact form */
+.form-inline label {
+	width: 100%;
+	justify-content: flex-start;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.form-inline input {
+	margin-right: 10px;
+	min-width: 300px;
+}
 
 /* Mission */
 #mission {
