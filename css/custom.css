@@ -34,11 +34,38 @@
 	margin-right: 10px;
 }
 
+@media screen and ( max-width: 575px ) {
+	
+	.form-inline .btn {
+		margin-top: 10px;
+	}
+}
+
+
+/* Typograpy */
+h2 { 
+	margin-bottom: 50px; 
+}
+
+blockquote p { 
+	line-height: 1.2; 
+}
+
+.blockquote-footer { 
+	font-size: 70%; 
+}
+
+/* Buzz */
+#buzz { 
+	padding: 50px 0; 
+}
+
+
 /* Mission */
 #mission {
 	background-color: rgba(32, 35, 41, 0.9);
 	color: #ddd;
-	padding: 20px 0 50px 0;
+	padding: 50px 0;
 }
 
 /* Social media buttons */
@@ -56,4 +83,20 @@
 
 .btn-pinterest {
 	background-color: #bd081c;
+}
+
+
+/* Colophon */
+#colophon {
+	padding: 50px 0;
+}
+
+#colophon p {
+	font-size: 80%;
+	color: grey;
+}
+
+#colophon a {
+	color: grey;
+	text-decoration: underline;
 }
