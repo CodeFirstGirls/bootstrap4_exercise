@@ -77,13 +77,26 @@ blockquote p {
 	background-color: #1da1f2;
 }
 
+.btn-twitter:hover {
+	background-color: #60BDF6;
+}
+
 .btn-facebook {
 	background-color: #3b5998;
+}
+
+.btn-facebook:hover {
+	background-color: #768BB7;
 }
 
 .btn-pinterest {
 	background-color: #bd081c;
 }
+
+.btn-pinterest:hover {
+	background-color: #D15260;
+}
+
 
 
 /* Colophon */
