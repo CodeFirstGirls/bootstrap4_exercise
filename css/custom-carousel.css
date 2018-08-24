@@ -1,12 +1,8 @@
 
 /* Carousel */
 
-@media screen and ( max-width: 719px ) {
-
-	.carousel-item,
-	.carousel-item > img {
-		height: 20rem;
-	}
+.carousel {
+	margin-bottom: 50px;
 }
 
 .carousel-caption h1 {
